@@ -1,0 +1,14 @@
+200
+[{"id":1,"name":"Clothes","image":"https://i.imgur.com/QkIa5tT.jpeg","creationAt":"2023-11-23T07:13:16.000Z","updatedAt":"2023-11-23T07:13:16.000Z"},{"id":2,"name":"Electronics","image":"https://i.imgur.com/ZANVnHE.jpeg","creationAt":"2023-11-23T07:13:16.000Z","updatedAt":"2023-11-23T07:13:16.000Z"},{"id":3,"name":"Furniture","image":"https://i.imgur.com/Qphac99.jpeg","creationAt":"2023-11-23T07:13:16.000Z","updatedAt":"2023-11-23T14:39:06.000Z"},{"id":4,"name":"Shoes","image":"https://i.imgur.com/qNOjJje.jpeg","creationAt":"2023-11-23T07:13:16.000Z","updatedAt":"2023-11-23T07:13:16.000Z"},{"id":5,"name":"Miscellaneous","image":"https://i.imgur.com/BG8J0Fj.jpg","creationAt":"2023-11-23T07:13:16.000Z","updatedAt":"2023-11-23T07:13:16.000Z"},{"id":16,"name":"Fruits","image":"https://source.unsplash.com/random/900x700/?fruits","creationAt":"2023-11-23T12:46:27.000Z","updatedAt":"2023-11-23T12:46:27.000Z"},{"id":17,"name":"Home and Kitchen","image":"https://source.unsplash.com/random/900x700/?home-and-kitchen","creationAt":"2023-11-23T12:46:27.000Z","updatedAt":"2023-11-23T12:46:27.000Z"},{"id":19,"name":"Health and Beauty","image":"https://source.unsplash.com/random/900x700/?health-and-beauty","creationAt":"2023-11-23T12:46:28.000Z","updatedAt":"2023-11-23T12:46:28.000Z"},{"id":20,"name":"Books and Media","image":"https://source.unsplash.com/random/900x700/?books-and-media","creationAt":"2023-11-23T12:46:29.000Z","updatedAt":"2023-11-23T12:46:29.000Z"},{"id":21,"name":"Sports and Outdoors","image":"https://source.unsplash.com/random/900x700/?sports-and-outdoors","creationAt":"2023-11-23T12:46:29.000Z","updatedAt":"2023-11-23T12:46:29.000Z"},{"id":22,"name":"Jewelry and Watches","image":"https://source.unsplash.com/random/900x700/?jewelry-and-watches","creationAt":"2023-11-23T12:46:29.000Z","updatedAt":"2023-11-23T12:46:29.000Z"}]
+<class 'str'>
+Clothes
+Electronics
+Furniture
+Shoes
+Miscellaneous
+Fruits
+Home and Kitchen
+Health and Beauty
+Books and Media
+Sports and Outdoors
+Jewelry and Watches
